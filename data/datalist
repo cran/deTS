@@ -1,0 +1,7 @@
+ENCODE_z_score
+GTEx_t_score
+GWAS_gene
+GWAS_gene_multiple
+correction_factor
+query_ENCODE
+query_GTEx

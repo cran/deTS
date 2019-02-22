@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "colorRampPalette")
+importFrom("stats", "fisher.test", "p.adjust", "quantile", "t.test")
+import("pheatmap")
